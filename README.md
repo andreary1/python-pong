@@ -30,7 +30,7 @@ To play the game, you'll need to have Python installed on your system. You also 
 3. **Run the Game**:
    Open a terminal or command prompt and navigate to the folder where the Python script is saved. Then, run:
     ```bash
-    python pong.py
+    main.py
     ```
 
 ## How to Play
@@ -44,7 +44,6 @@ To play the game, you'll need to have Python installed on your system. You also 
 
 ## Scoring System
 - Each time the ball passes a player’s paddle, the opponent earns one point.
-- The game continues until one player reaches a predefined score (typically 5 or 10 points).
 
 ## Acknowledgements
 - Angela Yu for the amazing "100 Days of Code - The Complete Python Bootcamp" course on Udemy.
@@ -52,4 +51,4 @@ To play the game, you'll need to have Python installed on your system. You also 
 
 ---
 
-This README provides an overview of the project, installation instructions, gameplay details, and a sample code snippet.
+This README provides an overview of the project, installation instructions and gameplay details
