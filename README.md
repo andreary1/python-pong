@@ -20,8 +20,8 @@ To play the game, you'll need to have Python installed on your system. You also 
 
 1. **Clone the Repository** (optional):
     ```bash
-    git clone https://github.com/yourusername/pong-python.git
-    cd pong-python
+    git clone https://github.com/yourusername/python-pong.git
+    cd python-pong
     ```
 
 2. **Install Python**:
